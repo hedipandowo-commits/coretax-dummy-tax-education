@@ -4,6 +4,8 @@ Repositori pendukung artikel *"Perancangan dan Penerapan Sistem Dummy Coretax se
 
 Isi repositori memungkinkan seluruh angka inferensial pada artikel (H1–H14) direproduksi.
 
+**DOI (arsip permanen):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23275181.svg)](https://doi.org/10.5281/zenodo.23275181)
+
 ## Struktur
 ```
 data/       data_respons_individual.csv (N = 96, anonim) + KAMUS_DATA.md
@@ -36,4 +38,4 @@ Opsi: `--boot 1000` untuk uji cepat (artikel memakai 5.000 sampel ulang), `--dat
 Data tidak memuat identitas partisipan. Partisipasi bersifat sukarela dengan persetujuan sadar (lihat Pernyataan Persetujuan Etik pada artikel).
 
 ## Lisensi
-Data/hasil: CC BY 4.0. Kode: MIT. Lihat `LICENSE`. Sitasi: lihat `CITATION.cff`.
+Data/hasil: CC BY 4.0. Kode: MIT. Lihat `LICENSE`. Sitasi: lihat `CITATION.cff` atau gunakan DOI https://doi.org/10.5281/zenodo.23275181.
