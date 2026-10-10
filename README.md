@@ -15,7 +15,7 @@ figures/    gambar2_model_tax_tam.png, gambar3_simple_slopes.png
 ```
 
 ## Cara menjalankan
-**Google Colab (tanpa instalasi):** buka `notebook/Analisis_Coretax_Colab.ipynb` di Colab, lalu *Runtime → Run all*. Waktu proses sekitar 1–3 menit.
+**Google Colab (tanpa instalasi):** [![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hedipandowo-commits/coretax-dummy-tax-education/blob/main/notebook/Analisis_Coretax_Colab.ipynb) lalu *Runtime → Run all*. Waktu proses sekitar 1–3 menit.
 
 **Lokal:**
 ```bash
